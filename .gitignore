@@ -1,0 +1,18 @@
+# Archivos generados por el sistema
+bin/
+obj/
+wwwroot/
+.vs/
+*.user
+*.suo
+
+# Configuración específica del entorno
+appsettings.Development.json
+
+# Archivos de dependencia
+*.dll
+*.pdb
+
+# Archivos temporales
+*.log
+*.tmp
